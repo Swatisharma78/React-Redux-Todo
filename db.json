@@ -1,0 +1,39 @@
+{
+  "todo": [
+    {
+      "title": "swati",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "mini",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "swati",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "mini",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "india",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "ss",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "s",
+      "status": false,
+      "id": 7
+    }
+  ]
+}
